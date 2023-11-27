@@ -26,9 +26,9 @@ _- Alan Saunders_
 
 # GitHub Stats
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=map-soriano&theme=nightowl&show_icons=true&border_radius=20&hide_border=true&count_private=true&rank_icon=github">
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=map-soriano&theme=nightowl&hide_border=true&border_radius=20">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=map-soriano&theme=nightowl&show_icons=true&hide_border=true&layout=compact&border_radius=20">
+  <img src="https://github-readme-stats.vercel.app/api?username=map-soriano&theme=nightowl&show_icons=true&border_radius=20&hide_border=true&count_private=true&rank_icon=github"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=map-soriano&theme=nightowl&hide_border=true&border_radius=20"> <br> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=map-soriano&theme=nightowl&show_icons=true&hide_border=true&layout=compact&border_radius=20"> 
 </div>
 
 <!-- MARKDOWN FORMAT
