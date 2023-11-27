@@ -1,4 +1,41 @@
-### Hi there 👋
+# 🗺️ Nan/Ace: A Stage Lover and Aspiring World Explorer
+
+<img src="https://github.com/map-soriano/map-soriano/assets/68729612/648c3df5-f07e-4a3d-b303-dce5e600ce69">
+
+<!-- ORIGINAL IMAGE
+<img src="https://github.com/map-soriano/map-soriano/assets/68729612/aa73405a-3d60-4c83-a61d-9e4324ab1c0e">
+-->
+
+<!-- MARKDOWN FORMAT
+![MAPS_Header_Cropped](https://github.com/map-soriano/map-soriano/assets/68729612/648c3df5-f07e-4a3d-b303-dce5e600ce69)
+![MAPS_Header](https://github.com/map-soriano/map-soriano/assets/68729612/aa73405a-3d60-4c83-a61d-9e4324ab1c0e)
+-->
+
+<!-- ORIGINAL QUOTE
+_`Life is what happens when you are busy making other plans.`_ <br>
+_- Alan Saunders_
+-->
+
+# 👨‍💻 About Me
+- 🔥 Would go through **ANYTHING** and even give up **EVERYTHING** for the stage
+- 👨‍🎓 Currently undertaking a `Bachelor of Science in Computer Science` program at Holy Angel University
+- 🔎 Currently in search of an internship
+
+# 🛠️ Tools I Work With
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,html,css,javascript,firebase,vscode,androidstudio" alt="Tools I Work With">
+
+# GitHub Stats
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=map-soriano&theme=nightowl&show_icons=true&border_radius=20&hide_border=true&count_private=true&rank_icon=github">
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=map-soriano&theme=nightowl&hide_border=true&border_radius=20">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=map-soriano&theme=nightowl&show_icons=true&hide_border=true&layout=compact&border_radius=20">
+</div>
+
+<!-- MARKDOWN FORMAT
+![map-soriano's Stats](https://github-readme-stats.vercel.app/api?username=map-soriano&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
+![map-soriano's Streak](https://github-readme-streak-stats.herokuapp.com/?user=map-soriano&theme=nightowl&hide_border=true)
+![map-soriano's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=map-soriano&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
+-->
 
 <!--
 **map-soriano/map-soriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
