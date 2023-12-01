@@ -1,4 +1,4 @@
-# 🗺️ Nan/Ace: A Stage Lover and Aspiring World Explorer
+## 🗺️ Nan/Ace: A Stage Lover and Aspiring World Explorer
 
 <img src="https://github.com/map-soriano/map-soriano/assets/68729612/648c3df5-f07e-4a3d-b303-dce5e600ce69">
 
