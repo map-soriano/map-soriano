@@ -16,15 +16,15 @@ _`Life is what happens when you are busy making other plans.`_ <br>
 _- Alan Saunders_
 -->
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 - 🔥 Would go through **ANYTHING** and even give up **EVERYTHING** for the stage
 - 👨‍🎓 Currently undertaking a `Bachelor of Science in Computer Science` program at Holy Angel University
 - 🔎 Currently in search of an internship
 
-# 🛠️ Tools I Work With
+## 🛠️ Tools I Work With
 <img src="https://skillicons.dev/icons?i=python,java,kotlin,html,css,javascript,firebase,vscode,androidstudio" alt="Tools I Work With">
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
   <img width=350 src="https://github-readme-stats.vercel.app/api?username=map-soriano&theme=nightowl&show_icons=true&border_radius=20&hide_border=true&count_private=true&rank_icon=github">
   <img width=375 src="https://github-readme-streak-stats.herokuapp.com/?user=map-soriano&theme=nightowl&hide_border=true&border_radius=20"> <br>
