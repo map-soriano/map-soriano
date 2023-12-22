@@ -19,10 +19,15 @@ _- Alan Saunders_
 ## 👨‍💻 About Me
 - 🔥 Would go through **ANYTHING** and even give up **EVERYTHING** for the stage
 - 👨‍🎓 Currently undertaking a `Bachelor of Science in Computer Science` program at Holy Angel University
-- 🔎 Currently onboarding as an intern
+- 🐣 Currently onboarding as an intern
+
+## 💻 Currently Learning/Involved
+- ⚛️ Front End Development Libraries Certification ([freeCodeCamp](https://freecodecamp.org/map-soriano))
+- ❄️ Advent of Cyber 2023 ([TryHackMe](https://tryhackme.com/p/mapsoriano))
+
 
 ## 🛠️ Tools I Work With
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,html,css,javascript,firebase,vscode,androidstudio" alt="Tools I Work With">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,kotlin,firebase,vscode,androidstudio" alt="Tools I Work With">
 
 ## 📊 GitHub Stats
 <div align="center">
