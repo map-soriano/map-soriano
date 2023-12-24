@@ -23,6 +23,7 @@ _- Alan Saunders_
 
 ## 💻 Currently Learning/Involved
 - ⚛️ Front End Development Libraries Certification ([freeCodeCamp](https://freecodecamp.org/map-soriano))
+- 🌱 Foundations Course (The Odin Project)
 - ❄️ Advent of Cyber 2023 ([TryHackMe](https://tryhackme.com/p/mapsoriano))
 
 
