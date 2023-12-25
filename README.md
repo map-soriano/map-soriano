@@ -24,8 +24,10 @@ _- Alan Saunders_
 ## 💻 Currently Learning/Involved
 - ⚛️ Front End Development Libraries Certification ([freeCodeCamp](https://freecodecamp.org/map-soriano))
 - 🌱 Foundations Course (The Odin Project)
-- ❄️ Advent of Cyber 2023 ([TryHackMe](https://tryhackme.com/p/mapsoriano))
 
+
+## 🏁 Recently Finished
+- ❄️ Advent of Cyber 2023 ([TryHackMe](https://tryhackme.com/p/mapsoriano))
 
 ## 🛠️ Tools I Work With
 <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,kotlin,firebase,vscode,androidstudio" alt="Tools I Work With">
