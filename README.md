@@ -31,8 +31,8 @@ _- Alan Saunders_
 - 🧮 JavaScript Algorithms and Data Structures (Beta) [Certification](https://www.freecodecamp.org/certification/map-soriano/javascript-algorithms-and-data-structures)
 - 🕸️ Responsive Web Design [Certification](https://www.freecodecamp.org/certification/map-soriano/responsive-web-design)
 
-## 🛠️ Tools I Work With
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,kotlin,firebase,vscode,androidstudio" alt="Tools I Work With">
+## 🛠️ I Work With...
+<img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,kotlin,firebase,vscode,androidstudio,git,github" alt="Tools I Work With">
 
 ## 📊 GitHub Stats
 <div align="center">
