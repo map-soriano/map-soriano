@@ -22,7 +22,7 @@ _- Alan Saunders_
 - 🐣 Currently onboarding as an intern
 
 ## 💻 Currently Learning/Involved
-- ⚛️ Front End Development Libraries Certification ([freeCodeCamp](https://freecodecamp.org/map-soriano))
+- ⚛️ Front End Development Libraries Certification ([freeCodeCamp](https://freecodecamp.org/map-soriano)) _(Currently stuck in Projects)_ 🥹
 - 🌱 Foundations Course (The Odin Project)
 - 🔄 Git (Git Immersion)
 
