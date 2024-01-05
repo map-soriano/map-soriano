@@ -24,10 +24,9 @@ _- Alan Saunders_
 ## 💻 Currently Learning/Involved
 - ⚛️ Front End Development Libraries Certification ([freeCodeCamp](https://freecodecamp.org/map-soriano)) _(Currently stuck in Projects)_ 🥹
 - 🌱 Foundations Course (The Odin Project)
-- 🔄 Git (Git Immersion)
-
 
 ## 🏁 Recently Finished
+- 🔄 Git (Git Immersion)
 - ❄️ Advent of Cyber 2023 [Badge](https://tryhackme.com/mapsoriano/badges/adventofcyber5)
 - 🧮 JavaScript Algorithms and Data Structures (Beta) [Certification](https://www.freecodecamp.org/certification/map-soriano/javascript-algorithms-and-data-structures)
 - 🕸️ Responsive Web Design [Certification](https://www.freecodecamp.org/certification/map-soriano/responsive-web-design)
