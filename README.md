@@ -24,6 +24,7 @@ _- Alan Saunders_
 ## 💻 Currently Learning/Involved
 - ⚛️ Front End Development Libraries Certification ([freeCodeCamp](https://freecodecamp.org/map-soriano)) _(Currently stuck in Projects)_ 🥹
 - 🌱 Foundations Course (The Odin Project)
+- 🖥️ CS50 2019 Lectures (Harvard via YouTube)
 
 ## 🏁 Recently Finished
 - 🔄 Git (Git Immersion)
