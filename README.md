@@ -35,14 +35,12 @@ _- Alan Saunders_
 ## 🛠️ I Work With...
 <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,kotlin,firebase,vscode,androidstudio,git,github" alt="Tools I Work With">
 
-<!-- TODO: Fix not loading  -->
-<!-- ## 📊 GitHub Stats
+## 📊 GitHub Stats
 <div align="center">
   <img width=350 src="https://github-readme-stats.vercel.app/api?username=map-soriano&theme=nightowl&show_icons=true&border_radius=20&hide_border=true&count_private=true&rank_icon=github">
   <img width=375 src="https://github-readme-streak-stats.herokuapp.com/?user=map-soriano&theme=nightowl&hide_border=true&border_radius=20"> <br> 
   <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=map-soriano&theme=nightowl&show_icons=true&hide_border=true&layout=compact&border_radius=20"> 
 </div>
--->
 
 <!-- MARKDOWN FORMAT
 ![map-soriano's Stats](https://github-readme-stats.vercel.app/api?username=map-soriano&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
