@@ -26,11 +26,12 @@ _- Alan Saunders_
 - 🌱 Foundations Course (The Odin Project)
 - 🖥️ CS50 2019 Lectures (Harvard via YouTube)
 
-## 🏁 Recently Finished
+<!-- ## 🏁 Recently Finished
 - 🔄 Git (Git Immersion)
 - ❄️ Advent of Cyber 2023 [Badge](https://tryhackme.com/mapsoriano/badges/adventofcyber5)
 - 🧮 JavaScript Algorithms and Data Structures (Beta) [Certification](https://www.freecodecamp.org/certification/map-soriano/javascript-algorithms-and-data-structures)
 - 🕸️ Responsive Web Design [Certification](https://www.freecodecamp.org/certification/map-soriano/responsive-web-design)
+-->
 
 ## 🛠️ I Work With...
 <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,kotlin,firebase,vscode,androidstudio,git,github" alt="Tools I Work With">
