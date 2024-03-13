@@ -19,7 +19,7 @@ _- Alan Saunders_
 ## 👨‍💻 About Me
 - 🔥 Would go through **ANYTHING** and even give up **EVERYTHING** for the stage
 - 👨‍🎓 Currently undertaking a `Bachelor of Science in Computer Science` program at Holy Angel University
-- 🐣 Currently working as an intern
+- 🐣 Currently working as a Dev Intern at Symph
 
 ## 💻 Currently Learning/Involved
 _Slow progress to prevent burning out since currently working and learning as an intern_
