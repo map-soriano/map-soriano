@@ -35,7 +35,7 @@ _Slow progress to prevent burning out since currently working and learning as an
 -->
 
 ## 🛠️ I Work With...
-<img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,kotlin,firebase,vscode,androidstudio,git,github" alt="Tools I Work With">
+<img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,html,css,tailwind,javascript,typescript,python,java,kotlin,gcp,firebase" alt="Tools I Work With">
 
 ## 📊 GitHub Stats
 <div align="center">
