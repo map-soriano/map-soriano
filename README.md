@@ -17,13 +17,13 @@ _- Alan Saunders_
 -->
 
 ## 👨‍💻 About Me
-- 🔥 Would go through **ANYTHING** and even give up **EVERYTHING** for the stage
+- 🔥 Would go through **ANYTHING** and **EVERYTHING** for the stage
 - 👨‍🎓 Currently undertaking a `Bachelor of Science in Computer Science` program at Holy Angel University
-- 🐣 Currently working as a Dev Intern at Symph
+- 🔍 Open to Work
 
 ## 💻 Currently Learning/Involved
-_Slow progress to prevent burning out since currently working and learning as an intern_
-- ⚛️ Front End Development Libraries Certification ([freeCodeCamp](https://freecodecamp.org/map-soriano)) _(Currently stuck in Projects)_ 🥹
+_Slow progress to prevent burning out_
+- ⚛️ Front End Development Libraries Certification ([freeCodeCamp](https://freecodecamp.org/map-soriano)) _(Finished, but updating a few projects)_
 - 🌱 Foundations Course (The Odin Project)
 - 🖥️ CS50 2019 Lectures (Harvard via YouTube)
 
