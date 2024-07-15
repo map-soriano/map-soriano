@@ -18,7 +18,7 @@ _- Alan Saunders_
 
 ## 👨‍💻 About Me
 - 🔥 Would go through **ANYTHING** and **EVERYTHING** for the stage
-- 👨‍🎓 Currently undertaking a `Bachelor of Science in Computer Science` program at Holy Angel University
+- 👨‍🎓 Recently graduated with a `Bachelor of Science in Computer Science` degree at Holy Angel University
 - 🔍 Open to Work
 
 ## 💻 Currently Learning/Involved
