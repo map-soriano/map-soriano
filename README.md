@@ -19,7 +19,8 @@ _- Alan Saunders_
 ## 👨‍💻 About Me
 - 🔥 Would go through **ANYTHING** and **EVERYTHING** for the stage
 - 👨‍🎓 Recently graduated with a `Bachelor of Science in Computer Science` degree at Holy Angel University
-- 🔍 Open to Work
+- 👨🏾‍💻 Associate Backend Developer
+<!-- - 🔍 Open to Work -->
 
 ## 💻 Currently Learning/Involved
 _Slow progress to prevent burning out_
