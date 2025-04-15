@@ -18,8 +18,9 @@ _- Alan Saunders_
 
 ## 👨‍💻 About Me
 - 🔥 Would go through **ANYTHING** and **EVERYTHING** for the stage
-- 👨‍🎓 Recently graduated with a `Bachelor of Science in Computer Science` degree at Holy Angel University
 - 👨🏾‍💻 Associate Backend Developer at Toro Cloud
+- 👨‍🎓 Graduated with a `Bachelor of Science in Computer Science` degree
+
 <!-- - 🔍 Open to Work -->
 
 ## 💻 Currently Learning/Involved
