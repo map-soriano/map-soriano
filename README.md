@@ -18,7 +18,7 @@ _- Alan Saunders_
 
 ## 👨‍💻 About Me
 - 🔥 Would go through **ANYTHING** and **EVERYTHING** for the stage
-- 👨🏾‍💻 Associate Backend Developer at Toro Cloud
+- 👨🏾‍💻 Associate Fullstack Developer at Toro Cloud
 - 👨‍🎓 Graduated with a `Bachelor of Science in Computer Science` degree
 
 <!-- - 🔍 Open to Work -->
@@ -39,12 +39,14 @@ _Slow progress to prevent burning out_
 ## 🛠️ I Work With...
 <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,nodejs,html,css,tailwind,javascript,typescript,python,java,kotlin,gcp,firebase" alt="Tools I Work With">
 
+<!--
 ## 📊 GitHub Stats
 <div align="center">
   <img width=350 src="https://github-readme-stats.vercel.app/api?username=map-soriano&theme=nightowl&show_icons=true&border_radius=20&hide_border=true&count_private=true&rank_icon=github">
   <img width=375 src="https://github-readme-streak-stats.herokuapp.com/?user=map-soriano&theme=nightowl&hide_border=true&border_radius=20"> <br> 
   <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=map-soriano&theme=nightowl&show_icons=true&hide_border=true&layout=compact&border_radius=20"> 
 </div>
+-->
 
 <!-- MARKDOWN FORMAT
 ![map-soriano's Stats](https://github-readme-stats.vercel.app/api?username=map-soriano&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
